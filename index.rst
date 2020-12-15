@@ -35,7 +35,7 @@
    
 .. toctree::
   :maxdepth: 2
-  :caption: Anhang Labs
+  :caption: Anhang - Labs
   :hidden:
 
   tools_vms/windows_tools_vm
