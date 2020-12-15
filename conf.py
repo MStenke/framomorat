@@ -72,8 +72,8 @@ html_theme_options = {
   'display_version': False
 }
 
-html_logo = "Logo.png"
-html_favicon = "favicon.ico"
+html_logo = "_static/Logo.png"
+html_favicon = "_static/favicon.ico"
 
 #custom css file to override standard readthedocs template
 def setup(app):
