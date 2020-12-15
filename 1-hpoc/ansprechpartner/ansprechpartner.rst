@@ -12,7 +12,7 @@ Der Hosted PoC ist zum Ausprobieren und "Spielen" gedacht, sodass Sie sich einen
 Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sich zu melden / durchzuklingeln:
 
 .. list-table::
-   :widths: 40 40
+   :widths: 40
    :header-rows: 1
 
    * - **Martin Stenke**
