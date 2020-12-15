@@ -77,7 +77,7 @@ html_favicon = "favicon.ico"
 
 #custom css file to override standard readthedocs template
 def setup(app):
-    app.add_stylesheet('css/custom.css')
+    app.add_css_file('css/custom.css')
     
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
